@@ -1,0 +1,10 @@
+site_name: Лабораторна робота №6
+site_author: Юрій Возний
+
+theme:
+  name: material
+  language: uk
+
+nav:
+  - Головна: index.md
+  - Про роботу: about.md
